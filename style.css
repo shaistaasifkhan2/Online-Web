@@ -1,0 +1,66 @@
+h1{
+    color:rgb(186,56,95,255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    background-color: rgb(201,192,19);
+}
+div{
+    font-size:large;
+    
+    background-color: rgb(201,192,19);
+}
+a{
+    color: rgb(224,187,200,255);
+}
+#abc{
+    text-decoration: none;
+}
+
+#xyz{
+    display: flex;
+    text-decoration: none;
+    color: none;
+
+}
+#xyz:hover{
+    color: rgb(201,192,19);
+    cursor: pointer;
+    text-decoration: underline;
+}
+#def{
+    display: flex;
+    text-decoration: none;
+    color: none;
+
+}
+#def:hover{
+    color: rgb(201,192,19);
+    cursor: pointer;
+    text-decoration: underline;
+}
+#ghi{
+    display: flex;
+    text-decoration: none;
+    color: none;
+
+}
+#ghi:hover{
+    color: rgb(201,192,19);
+    cursor: pointer;
+    text-decoration: underline;
+}
+#jkl{
+    display: flex;
+    text-decoration: none;
+    color: none;
+
+}
+#jkl:hover{
+    color: rgb(201,192,19);
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+
+
